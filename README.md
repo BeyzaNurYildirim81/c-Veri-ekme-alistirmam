@@ -1,0 +1,1 @@
+# c-Veri-ekme-alistirmam
